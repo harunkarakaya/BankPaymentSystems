@@ -1,0 +1,9 @@
+C:\Users\harun\source\repos\PaymentSystems\ENTITIES\bin\Debug\netcoreapp2.1\ENTITIES.deps.json
+C:\Users\harun\source\repos\PaymentSystems\ENTITIES\bin\Debug\netcoreapp2.1\ENTITIES.dll
+C:\Users\harun\source\repos\PaymentSystems\ENTITIES\bin\Debug\netcoreapp2.1\ENTITIES.pdb
+C:\Users\harun\source\repos\PaymentSystems\ENTITIES\obj\Debug\netcoreapp2.1\ENTITIES.csprojAssemblyReference.cache
+C:\Users\harun\source\repos\PaymentSystems\ENTITIES\obj\Debug\netcoreapp2.1\ENTITIES.csproj.CoreCompileInputs.cache
+C:\Users\harun\source\repos\PaymentSystems\ENTITIES\obj\Debug\netcoreapp2.1\ENTITIES.AssemblyInfoInputs.cache
+C:\Users\harun\source\repos\PaymentSystems\ENTITIES\obj\Debug\netcoreapp2.1\ENTITIES.AssemblyInfo.cs
+C:\Users\harun\source\repos\PaymentSystems\ENTITIES\obj\Debug\netcoreapp2.1\ENTITIES.dll
+C:\Users\harun\source\repos\PaymentSystems\ENTITIES\obj\Debug\netcoreapp2.1\ENTITIES.pdb

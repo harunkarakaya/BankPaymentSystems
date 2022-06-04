@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebAPI</name>
+    </assembly>
+    <members>
+        <member name="M:WebAPI.Controllers.PaymentsController.Payment(ENTITIES.Payment)">
+            <summary>
+            Payment with credit card
+            </summary>
+            <param name="p"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

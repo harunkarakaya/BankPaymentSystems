@@ -1,0 +1,14 @@
+C:\Users\harun\source\repos\PaymentSystems\DAL\bin\Debug\netcoreapp2.1\DAL.deps.json
+C:\Users\harun\source\repos\PaymentSystems\DAL\bin\Debug\netcoreapp2.1\DAL.dll
+C:\Users\harun\source\repos\PaymentSystems\DAL\obj\Debug\netcoreapp2.1\DAL.csprojAssemblyReference.cache
+C:\Users\harun\source\repos\PaymentSystems\DAL\obj\Debug\netcoreapp2.1\DAL.csproj.CoreCompileInputs.cache
+C:\Users\harun\source\repos\PaymentSystems\DAL\obj\Debug\netcoreapp2.1\DAL.AssemblyInfoInputs.cache
+C:\Users\harun\source\repos\PaymentSystems\DAL\obj\Debug\netcoreapp2.1\DAL.AssemblyInfo.cs
+C:\Users\harun\source\repos\PaymentSystems\DAL\bin\Debug\netcoreapp2.1\ENTITIES.dll
+C:\Users\harun\source\repos\PaymentSystems\DAL\bin\Debug\netcoreapp2.1\DAL.runtimeconfig.json
+C:\Users\harun\source\repos\PaymentSystems\DAL\bin\Debug\netcoreapp2.1\DAL.runtimeconfig.dev.json
+C:\Users\harun\source\repos\PaymentSystems\DAL\bin\Debug\netcoreapp2.1\DAL.pdb
+C:\Users\harun\source\repos\PaymentSystems\DAL\bin\Debug\netcoreapp2.1\ENTITIES.pdb
+C:\Users\harun\source\repos\PaymentSystems\DAL\obj\Debug\netcoreapp2.1\DAL.csproj.CopyComplete
+C:\Users\harun\source\repos\PaymentSystems\DAL\obj\Debug\netcoreapp2.1\DAL.dll
+C:\Users\harun\source\repos\PaymentSystems\DAL\obj\Debug\netcoreapp2.1\DAL.pdb
